@@ -88,7 +88,7 @@
 #
 # https://httpd.apache.org/docs/current/mod/core.html#errordocument
 
-ErrorDocument 404 /404.html
+ErrorDocument 404 /index.html
 
 # ----------------------------------------------------------------------
 # | Error prevention                                                   |
@@ -1218,12 +1218,9 @@ FileETag None
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
-
-  # If an existing asset or directory is requested go to it as it is
-  RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f [OR]
-  RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d
-  RewriteRule ^ - [L]
-
-  # If the requested resource doesn't exist, use index.html
-  RewriteRule ^ /index.html
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
 </IfModule>
