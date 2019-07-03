@@ -1218,6 +1218,7 @@ FileETag None
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
+
   # If an existing asset or directory is requested go to it as it is
   RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f [OR]
   RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d
