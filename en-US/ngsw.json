@@ -1,0 +1,98 @@
+{
+  "configVersion": 1,
+  "timestamp": 1562672028800,
+  "index": "/en-US/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/en-US/4-es5.5a1bb10d174dba5bfcd7.js",
+        "/en-US/5-es2015.832f9de3db3816bf9e11.js",
+        "/en-US/5-es5.b78aedb99df55dded81e.js",
+        "/en-US/6-es2015.d826e95f946456f06be6.js",
+        "/en-US/6-es5.f71eb438eaa52ec88190.js",
+        "/en-US/7-es2015.17b3f8f8788edd90ceb3.js",
+        "/en-US/7-es5.6162a9a6b11217c2e243.js",
+        "/en-US/8-es2015.c4227f443feb4c4f414b.js",
+        "/en-US/favicon.ico",
+        "/en-US/index.html",
+        "/en-US/main-es2015.45545807d3f3a375cf74.js",
+        "/en-US/main-es5.4e25153ecb8f083ccbcb.js",
+        "/en-US/polyfills-es2015.5a6baeda42c813e64da6.js",
+        "/en-US/polyfills-es5.1932bf1ecf7bc8cfd3b2.js",
+        "/en-US/runtime-es2015.668b5bd65122c18b9ebd.js",
+        "/en-US/runtime-es5.4503dee22783889cbe07.js",
+        "/en-US/styles.368e51999e1da44f3bfe.css",
+        "/en-US/vendor-es2015.f6a105141faf2c545646.js",
+        "/en-US/vendor-es5.903ced4d6a58e0270df0.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/en-US/assets/icons/icon-128x128.png",
+        "/en-US/assets/icons/icon-144x144.png",
+        "/en-US/assets/icons/icon-152x152.png",
+        "/en-US/assets/icons/icon-192x192.png",
+        "/en-US/assets/icons/icon-384x384.png",
+        "/en-US/assets/icons/icon-512x512.png",
+        "/en-US/assets/icons/icon-72x72.png",
+        "/en-US/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/en-US/4-es5.5a1bb10d174dba5bfcd7.js": "ad1542c3d880095fe7f8a8248488d3462179ca31",
+    "/en-US/5-es2015.832f9de3db3816bf9e11.js": "d6f36da99ad3b63ef847db55e297632bb69ef908",
+    "/en-US/5-es5.b78aedb99df55dded81e.js": "048c3be24341400385d1dc46e9e84f2ffd074dd7",
+    "/en-US/6-es2015.d826e95f946456f06be6.js": "d049f7710a086360cd5adbc70c0e19b3f4935a64",
+    "/en-US/6-es5.f71eb438eaa52ec88190.js": "2779fb669d17f0bc78fde9ea46b6f1db386e7d09",
+    "/en-US/7-es2015.17b3f8f8788edd90ceb3.js": "a8be3cd4950c17e6044a76d571cc7d57e699d5ba",
+    "/en-US/7-es5.6162a9a6b11217c2e243.js": "763685c3be37459f16d97bb888d6f4bc6f225a75",
+    "/en-US/8-es2015.c4227f443feb4c4f414b.js": "59badd5e357f1be8c3e792cd601422aaaf354776",
+    "/en-US/assets/icons/icon-128x128.png": "3a19c4fb4601072731fa1b6d993ec9970ac55c48",
+    "/en-US/assets/icons/icon-144x144.png": "96021b85116a0a1ac95f69a2f79d81ab401112cf",
+    "/en-US/assets/icons/icon-152x152.png": "0f4a69bc4ed0efe4f2d9003ac453f1e547ce997b",
+    "/en-US/assets/icons/icon-192x192.png": "5dd931813aea6c873a01afbe58eb90f7b37f71ac",
+    "/en-US/assets/icons/icon-384x384.png": "d4697809451395f34cddf1987be4ea3138edd9b3",
+    "/en-US/assets/icons/icon-512x512.png": "c1c096a1597be0d48a6a3d2403a1809186b1ab34",
+    "/en-US/assets/icons/icon-72x72.png": "7ddddcb6bb53e2dfc0f772eb6353e6ea79dcf456",
+    "/en-US/assets/icons/icon-96x96.png": "245f586654a058710e9aff0d4e85c091f5e772f4",
+    "/en-US/favicon.ico": "929b4025c6828a5bb995dd0c4572443d45f05628",
+    "/en-US/index.html": "1124e7818fc1212d2f0c8a9f59a280b44f26c286",
+    "/en-US/main-es2015.45545807d3f3a375cf74.js": "087b30c6a04e183f904e4a1a4c426f61304e3187",
+    "/en-US/main-es5.4e25153ecb8f083ccbcb.js": "734943ef4016c54864d618d8d1397e76e2ad7abf",
+    "/en-US/polyfills-es2015.5a6baeda42c813e64da6.js": "f5f4cc69be2ebd8af335aac42b2714b61c18c5c2",
+    "/en-US/polyfills-es5.1932bf1ecf7bc8cfd3b2.js": "2ea80c0b3d80294e4ee191777027c2f814c81c4a",
+    "/en-US/runtime-es2015.668b5bd65122c18b9ebd.js": "e5f1ecea7debc548622b64da1f96adeb0b329dd2",
+    "/en-US/runtime-es5.4503dee22783889cbe07.js": "55381af94d7e5be5f86e4629f923c290a09b9c32",
+    "/en-US/styles.368e51999e1da44f3bfe.css": "89f653110d503d880310d42b15aaeb5fd26247c4",
+    "/en-US/vendor-es2015.f6a105141faf2c545646.js": "6b56e485e3c0ab9d5eac67690233aae1a770ae84",
+    "/en-US/vendor-es5.903ced4d6a58e0270df0.js": "d56d0c0b65d6d07cb4602514e3c8a6cd717b031d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
