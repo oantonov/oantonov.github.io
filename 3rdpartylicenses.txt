@@ -1,3 +1,8 @@
+@angular/core
+MIT
+
+undefined
+
 @angular-devkit/build-angular
 MIT
 The MIT License
@@ -24,9 +29,6 @@ SOFTWARE.
 
 
 @angular/common
-MIT
-
-@angular/core
 MIT
 
 @angular/platform-browser

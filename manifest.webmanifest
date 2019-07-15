@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "short_name": "my-app",
+  "name": "headless-app",
+  "short_name": "headless-app",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
