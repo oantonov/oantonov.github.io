@@ -1,0 +1,8 @@
+{
+  "realm": "POC",
+  "auth-server-url": "https://kilorec-sso.acteos.com/auth/",
+  "ssl-required": "external",
+  "resource": "my-app",
+  "public-client": true,
+  "confidential-port": 0
+}
